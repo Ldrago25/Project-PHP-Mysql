@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.encabe{
+
+    width: 100%;
+    height: 100px;
+    background-color:   gray;
+    color:black;
+    text-align: center;
+}
+
+.Boleto{
+background-color: beige;
+    width: 100%;
+    height: 86vh;
+    text-align: center;
+    margin-top: 50px;
+}
+.selec
+{
+    width: 120px;
+}

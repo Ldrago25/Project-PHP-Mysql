@@ -1,0 +1,88 @@
+body{
+
+    background-color: whitesmoke;
+    color: black;
+
+}
+.ventas{
+    background-color: rgb(95, 139, 160);
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+.pn{
+
+
+    width: 30%;
+    height: 80px;
+}
+.listado{
+
+
+    width: 70%;
+    height: 80px;
+}
+
+.resumen{
+    width: 100%;
+    height: 75vh;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+.columnas
+{
+   
+    display: flex;
+    
+    justify-content: space-around;
+    margin: 0px 10.5%;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 10.5%;
+    color: black;
+    text-decoration: none;
+    overflow: hidden;  
+}
+
+.info:hover{
+    background-color: #eee;
+}
+
+.info p{
+    min-width: 100px;
+    max-width: 100px;
+    min-height: 20px;
+    max-height: 20px;
+
+}
+.tr{
+    margin: 0px 10.5%;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+
+.Detalle
+{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+.lin{
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.links{
+
+
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,5 @@
+SELECT u.Nombre, u.Apellido, u.Cedula, b.Nombre AS 'Evento', b.Ubicacion FROM boleto b INNER JOIN usuario u ON b.usuario_Id = u.Id_Usuario WHERE B.usuario_Id = '1';
+
+INSERT INTO usuario VALUE (null, "Brandom", "Vargas", "26566047", "San Antonio", "M", "04247392133", "brandom@brandom.com", "brandom", "brandom_01", "Admin");
+
+INSERT INTO usuario VALUE (null, "Luis", "Urbina", "24693115", "Colon", "M", "04247631455", "luis@luis.com", "luis", "luis_01", "");

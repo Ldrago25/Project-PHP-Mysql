@@ -1,0 +1,90 @@
+body {
+    
+    background-color:  rgb(95, 116, 160);
+    margin: 0px;
+    padding: 0px;
+}
+
+.Login {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+
+.Parrafo {
+    width: 60%;
+    height: 50px;
+}
+
+.modelo {
+    width: 50%;
+    height: 70%;
+}
+
+.boton {
+    background-color: black;
+    color: white;
+}
+
+.LoginI {
+    width: 40%;
+    height: 50px;
+}
+
+.Registro {
+    background-image: url("sas.png");
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+.LoginP {
+    width: 100%;
+    height: 50px;
+}
+
+.Formulario {
+    width: 100%;
+    height: 50vh;
+    margin-left: 470px;
+    margin-top: 150px;
+    color: white;
+    display: flex;
+}
+
+
+
+.png {
+    width: 20%;
+    height: 100px;
+}
+
+.Exito {
+    color: green;
+}
+
+#cero {
+    width: 100%;
+    display: flex;
+}
+
+#uno {
+    width: 30%;
+    height: auto;
+}
+
+#dos {
+    width: 70%;
+    height: auto;
+}
+
+.bot {
+    text-align: center;
+}
+
+.error_registro {
+    background-color: rgb(137, 158, 148);
+    color: red;
+}
